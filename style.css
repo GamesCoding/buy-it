@@ -1,0 +1,27 @@
+body{
+    background-color: r;
+}
+
+hr{
+    border-width: 2px;
+    padding-left: 0px;
+
+    color: black;
+}
+
+#top{
+    padding-top: 20px;
+
+    background-color: skyblue;
+}
+
+#title{
+    padding-left: 20px;  
+}
+
+#sketch-holder{
+    position: absolute;
+
+    top: 20px;
+    left: 1100px;
+}
